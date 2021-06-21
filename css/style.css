@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+#intestazione{
+    height: 200px;
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    padding-top: 100px;
+}
+#logo {
+    height: 100px;
+}
