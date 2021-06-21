@@ -39,3 +39,22 @@ thead{
     background-color:#B1E5F2 ;
 }
 td {width: 25%}
+
+h2 {
+    font-size: 14px;
+}
+.immagine1,.immagine2  {
+    height: 180px;
+    width: 250px;
+    background-size: cover;
+    color: white;
+    padding: 10px;
+
+}
+.immagine1{
+    background-image: url(../img/monitor.jpg);
+}
+.immagine2 {
+    background-image: url(../img/graph.jpg);
+    margin-top: 20px;
+}
