@@ -1,12 +1,41 @@
 *{
     box-sizing: border-box;
 }
+.container{
+    width: 1100px;
+}
 #intestazione{
     height: 200px;
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
-    padding-top: 100px;
+    padding-top: 80px;
+    background-repeat: repeat-x;
 }
 #logo {
     height: 100px;
 }
+h1{
+    margin: 0;
+}
+#firma {
+    color: #20A9E5;
+}
+.sottotitolo{
+    font-weight: bold;
+    color: grey;
+    margin-bottom: 20px;
+}
+.scritte-piccole{
+    font-size: 11px;
+}
+.importante {
+    background-color: yellow;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+.riga-colorata {
+    background-color:#B1E5F2 ;
+}
+td {width: 25%}
